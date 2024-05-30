@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jasper
 
 ## Build Setup
@@ -67,3 +68,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# InitialScaffolding
+初始web手脚架
+>>>>>>> 5f511f8f2a826ce5a808d7de704f9e7de99afe6d
